@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverslate&show_icons=true&theme=dark&bg_color=ff9466&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="oliverslate" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slate&theme=default" alt="slate" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverslate&theme=default" alt="oliverslate" /></p>
